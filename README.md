@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **AWS Projects**
 
-- 🤝 I’m looking for help with **DevOps Projects**
+- 🤝 I’m looking for help with **AWS Projects**
 
 - 💬 Ask me about **Linux, Git, GitHub, AWS, Ubuntu**
 
