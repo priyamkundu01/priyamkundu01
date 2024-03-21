@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyam Kundu</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<img
-      align="right"
-      alt="Coding"
-      width="400"
-      src="https://cdn.dribbble.com/users/4107928/screenshots/16332316/media/719efcff15976cc5df758885c931429d.jpg?compress=1&resize=1200x900&vertical=top"
- />
-
-- 🌱 I’m currently learning **AWS and DevOps**
+- 🌱 I’m currently learning **GCP and DevOps**
 
 - 👯 I’m looking to collaborate on **DevOps Projects**
 
