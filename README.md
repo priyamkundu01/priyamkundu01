@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Priyam Kundu</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-- 🌱 I’m currently learning **GCP and DevOps**
+🌱 I’m currently learning **GCP and DevOps**
 
-- 👯 I’m looking to collaborate on **DevOps Projects**
+👯 I’m looking to collaborate on **DevOps Projects**
 
-- 🤝 I’m looking for help with **DevOps Projects**
+🤝 I’m looking for help with **DevOps Projects**
 
-- 💬 Ask me about **Linux, Git, GitHub, AWS, Docker, Kubernetes, Ansible, Terrform, Jenkins, Ubuntu**
+💬 Ask me about **GCP, AWS, Docker, Kubernetes, Ansible, Terrform, Linux, Git, GitHub, Ubuntu**
 
-- 📫 How to reach me **priyamkundu4411@gmail.com**
+📫 How to reach me **priyamkundu4411@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11x_5z7vGSxl1baKOw8NUh9JgKSalK4eQ/view?usp=sharing/)
+📄 Know about my experiences [https://drive.google.com/file/d/11x_5z7vGSxl1baKOw8NUh9JgKSalK4eQ/view?usp=sharing/)
 
-- ⚡ Fun fact **I think I am funny**
+⚡ Fun fact **Me Noob**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
