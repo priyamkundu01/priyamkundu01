@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **priyamkundu4411@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1sRP5W6RboTbqggQmZ8iC_NOajWJDlThr/](https://docs.google.com/document/d/1sRP5W6RboTbqggQmZ8iC_NOajWJDlThr/)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11x_5z7vGSxl1baKOw8NUh9JgKSalK4eQ/view?usp=sharing/)
 
 - ⚡ Fun fact **I think I am funny**
 
