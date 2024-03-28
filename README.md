@@ -9,9 +9,9 @@
 
 💬 Ask me about **GCP, AWS, Docker, Kubernetes, Ansible, Terrform, Linux, Git, GitHub, Ubuntu**
 
-📫 How to reach me **priyamkundu4411@gmail.com**
+📫 How to reach me - [Email](mailto: priyamkundu4411@gmail.com)
 
-📄 Know about my experiences [https://drive.google.com/file/d/11x_5z7vGSxl1baKOw8NUh9JgKSalK4eQ/view?usp=sharing/)
+📄 Know about my experiences - [Resume](https://drive.google.com/file/d/17KhXuc9jEiKrdb5329krSINx7gUhc2zB/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
