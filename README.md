@@ -13,8 +13,6 @@
 
 📄 Know about my experiences [https://drive.google.com/file/d/11x_5z7vGSxl1baKOw8NUh9JgKSalK4eQ/view?usp=sharing/)
 
-⚡ Fun fact **Me Noob**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyamkundu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyamkundu01" height="30" width="40" /></a>
