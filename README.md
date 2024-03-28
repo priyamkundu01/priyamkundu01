@@ -11,8 +11,6 @@
 
 📫 How to reach me - [Email](mailto:priyamkundu4411@gmail.com)
 
-📄 Know about my experiences - [Resume](https://drive.google.com/file/d/17KhXuc9jEiKrdb5329krSINx7gUhc2zB/view?usp=drivesdk)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyamkundu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyamkundu01" height="30" width="40" /></a>
