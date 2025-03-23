@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Priyam Kundu</h1>
 <h3 align="center">By profession, I'm a frontend developer and passionate about DevOps and cloud technologies.</h3>
 
-🌱 I’m currently learning **Frontend, Cloud and DevOps**
+🌱 I’m currently learning **Frontend, Hybrid app development, and Cloud**
 
 👯 I’m looking to collaborate on **Frontend Projects**
 
-🤝 I’m looking for help with **DevOps Projects**
+🤝 I’m looking for help with **React Native Projects**
 
-💬 Ask me about **HTML, CSS, JavaScript, GCP, AWS, Docker, Kubernetes, Ansible, Terrform, Linux, Git, GitHub, Ubuntu**
+💬 Ask me about **HTML, CSS, JavaScript, React Native, GCP, AWS, Docker, Ansible, Terrform, Linux, Git, GitHub, Ubuntu**
 
 📫 How to reach me - [Email](mailto:priyamkundu4411@gmail.com)
 
