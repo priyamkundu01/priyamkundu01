@@ -1,13 +1,4 @@
 <h1 align="center">Hi 👋, I'm Priyam Kundu</h1>
-<h3 align="center">By profession, I'm a *React Native developer* (and also passionate about cloud technologies)</h3>
-
-🌱 I’m currently learning **Cross-Platform app development**
-
-👯 I’m looking to collaborate on **React Native Projects**
-
-🤝 I’m looking for help with **React Native Projects**
-
-💬 Ask me about **HTML, CSS, JavaScript, React Native, Expo, GCP, AWS, Docker, Ansible, Terrform, Linux, Git, GitHub, Ubuntu**
 
 📫 How to reach me - [Email](mailto:priyam.kundu.work@gmail.com)
 
